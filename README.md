@@ -20,13 +20,6 @@ Sometimes I create them.
 
 </div>
 
-name       : siro
-location   : switzerland
-focus      : cloud / ai / infrastructure
-status     : probably breaking something
-
-</div>
-
 ---
 
 ## About
@@ -46,7 +39,6 @@ Current interests:
 - Self Hosting
 - Distributed Systems
 
---
 
 ## Projects
 
