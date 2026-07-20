@@ -11,8 +11,6 @@
 ╚══════╝╚═╝ ╚═════╝ ╚══════╝ ╚═════╝
 ```
 
-**Sometimes I solve problems. Sometimes I create them.**
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1800&color=58A6FF&center=true&vCenter=true&width=620&lines=Hobby+dev+in+progress.;Learning+Python%2C+properly+this+time.;Heading+for+cloud+engineering.;Breaking+things+on+my+own+hardware+first.;Still+early+%E2%80%94+that's+the+fun+part." alt="typing" />
 
 <br />
