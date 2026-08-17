@@ -31,7 +31,7 @@ I'm a hobby developer, still early in this and enjoying it that way.
 Right now I'm getting **properly** good at Python instead of just good enough to make something run, and working towards **cloud engineering** as the direction I actually want to go. Most of what I've learned so far came from building infrastructure I have to keep alive afterwards — which turns out to be an excellent teacher.
 
 ```yaml
-name:      Siro
+name:      Sige
 location:  Switzerland
 role:      hobby dev, aspiring cloud engineer
 learning:  Python (deeper) · cloud fundamentals · distributed systems
