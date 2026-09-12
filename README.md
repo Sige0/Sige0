@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zer0space-net/zer0space-docs/main/may%20(mascot)/zer0space-terminal.png" alt="zer0space" width="100%" />
-
 ```
 ███████╗██╗ ██████╗ ███████╗ ██████╗
 ██╔════╝██║██╔════╝ ██╔════╝██╔═████╗
